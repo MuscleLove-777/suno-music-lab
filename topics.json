@@ -1,55 +1,204 @@
 {
   "Suno 使い方": [
-    {"keyword": "Suno AI作曲 始め方 2026", "priority": "high", "status": "pending"},
-    {"keyword": "Suno 無料版でできること", "priority": "high", "status": "pending"},
-    {"keyword": "Suno 歌詞入力のコツ", "priority": "medium", "status": "pending"},
-    {"keyword": "Suno カスタムモード 使い方", "priority": "medium", "status": "pending"},
-    {"keyword": "Suno 日本語の歌 作り方", "priority": "high", "status": "pending"}
+    {
+      "keyword": "Suno AI作曲 始め方 2026",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Suno 無料版でできること",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Suno 歌詞入力のコツ",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "keyword": "Suno カスタムモード 使い方",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "keyword": "Suno 日本語の歌 作り方",
+      "priority": "high",
+      "status": "pending"
+    }
   ],
   "Suno 料金・プラン": [
-    {"keyword": "Suno Pro 料金 2026", "priority": "high", "status": "pending"},
-    {"keyword": "Suno 無料 有料 違い", "priority": "high", "status": "pending"},
-    {"keyword": "Suno Premier プラン 内容", "priority": "high", "status": "pending"},
-    {"keyword": "Suno クレジット 仕組み", "priority": "medium", "status": "pending"}
+    {
+      "keyword": "Suno Pro 料金 2026",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Suno 無料 有料 違い",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Suno Premier プラン 内容",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Suno クレジット 仕組み",
+      "priority": "medium",
+      "status": "pending"
+    }
   ],
   "Suno vs Udio": [
-    {"keyword": "Suno Udio 比較 2026年最新", "priority": "high", "status": "pending"},
-    {"keyword": "Suno vs Udio 音質比較", "priority": "high", "status": "pending"},
-    {"keyword": "Suno vs Udio 商用利用 違い", "priority": "medium", "status": "pending"},
-    {"keyword": "AI作曲ツール おすすめ どっちがいい", "priority": "medium", "status": "pending"}
+    {
+      "keyword": "Suno Udio 比較 2026年最新",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Suno vs Udio 音質比較",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Suno vs Udio 商用利用 違い",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "keyword": "AI作曲ツール おすすめ どっちがいい",
+      "priority": "medium",
+      "status": "pending"
+    }
   ],
   "Suno 最新ニュース": [
-    {"keyword": "Suno 1億ユーザー突破", "priority": "high", "status": "pending"},
-    {"keyword": "Suno v4 新機能まとめ", "priority": "high", "status": "pending"},
-    {"keyword": "Suno レーベル ライセンス契約", "priority": "high", "status": "pending"},
-    {"keyword": "AI音楽 著作権 最新動向 2026", "priority": "medium", "status": "pending"},
-    {"keyword": "Suno API 公開 開発者向け", "priority": "medium", "status": "pending"}
+    {
+      "keyword": "Suno 1億ユーザー突破",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Suno v4 新機能まとめ",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Suno レーベル ライセンス契約",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "AI音楽 著作権 最新動向 2026",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "keyword": "Suno API 公開 開発者向け",
+      "priority": "medium",
+      "status": "pending"
+    }
   ],
   "AI作曲テクニック": [
-    {"keyword": "AI作曲 ジャンル別 テクニック集", "priority": "high", "status": "pending"},
-    {"keyword": "Suno ロック 作曲 コツ", "priority": "medium", "status": "pending"},
-    {"keyword": "Suno J-POP 日本語ポップス 作り方", "priority": "high", "status": "pending"},
-    {"keyword": "Suno EDM トラック 作成術", "priority": "medium", "status": "pending"},
-    {"keyword": "Suno BGM 動画用 作成", "priority": "medium", "status": "pending"}
+    {
+      "keyword": "AI作曲 ジャンル別 テクニック集",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Suno ロック 作曲 コツ",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "keyword": "Suno J-POP 日本語ポップス 作り方",
+      "priority": "high",
+      "status": "done",
+      "done_at": "2026-05-05T11:27:12.473497"
+    },
+    {
+      "keyword": "Suno EDM トラック 作成術",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "keyword": "Suno BGM 動画用 作成",
+      "priority": "medium",
+      "status": "pending"
+    }
   ],
   "Suno プロンプト術": [
-    {"keyword": "Suno プロンプト テンプレート集", "priority": "high", "status": "pending"},
-    {"keyword": "Suno プロンプト 書き方 完全ガイド", "priority": "high", "status": "pending"},
-    {"keyword": "Suno スタイルタグ 一覧", "priority": "high", "status": "pending"},
-    {"keyword": "Suno 楽器指定 プロンプト", "priority": "medium", "status": "pending"},
-    {"keyword": "Suno ムード ジャンル 組み合わせ", "priority": "medium", "status": "pending"}
+    {
+      "keyword": "Suno プロンプト テンプレート集",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Suno プロンプト 書き方 完全ガイド",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Suno スタイルタグ 一覧",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Suno 楽器指定 プロンプト",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "keyword": "Suno ムード ジャンル 組み合わせ",
+      "priority": "medium",
+      "status": "pending"
+    }
   ],
   "AI音楽生成比較": [
-    {"keyword": "AI音楽生成ツール 比較 ランキング 2026", "priority": "high", "status": "pending"},
-    {"keyword": "Suno vs Stable Audio 比較", "priority": "medium", "status": "pending"},
-    {"keyword": "Suno vs MusicFX 比較", "priority": "medium", "status": "pending"},
-    {"keyword": "AI作曲 無料ツール まとめ", "priority": "high", "status": "pending"}
+    {
+      "keyword": "AI音楽生成ツール 比較 ランキング 2026",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Suno vs Stable Audio 比較",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "keyword": "Suno vs MusicFX 比較",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "keyword": "AI作曲 無料ツール まとめ",
+      "priority": "high",
+      "status": "pending"
+    }
   ],
   "Suno 活用事例": [
-    {"keyword": "Suno 商用利用 ガイド", "priority": "high", "status": "pending"},
-    {"keyword": "Suno YouTube BGM 活用", "priority": "high", "status": "pending"},
-    {"keyword": "Suno ポッドキャスト ジングル 作成", "priority": "medium", "status": "pending"},
-    {"keyword": "Suno 結婚式 オリジナルソング", "priority": "medium", "status": "pending"},
-    {"keyword": "Suno ゲーム BGM 制作", "priority": "medium", "status": "pending"}
+    {
+      "keyword": "Suno 商用利用 ガイド",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Suno YouTube BGM 活用",
+      "priority": "high",
+      "status": "pending"
+    },
+    {
+      "keyword": "Suno ポッドキャスト ジングル 作成",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "keyword": "Suno 結婚式 オリジナルソング",
+      "priority": "medium",
+      "status": "pending"
+    },
+    {
+      "keyword": "Suno ゲーム BGM 制作",
+      "priority": "medium",
+      "status": "pending"
+    }
   ]
 }
